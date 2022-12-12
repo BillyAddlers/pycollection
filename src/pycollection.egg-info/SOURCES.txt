@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/pycollection/__init__.py
+src/pycollection/collection.py
+src/pycollection/enmap.py
+src/pycollection.egg-info/PKG-INFO
+src/pycollection.egg-info/SOURCES.txt
+src/pycollection.egg-info/dependency_links.txt
+src/pycollection.egg-info/requires.txt
+src/pycollection.egg-info/top_level.txt
+test/test_collection.py
