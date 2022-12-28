@@ -42,3 +42,8 @@ class Enmap(Collection):
 		self.cur.execute("DELETE FROM enmap")
 		self.con.commit()
 		super().clear()
+
+	def refresh(self):
+		tempdata = self.cur.execute("SELECT * FROM enmap").fetchall()
+		for key, value in tempdata:
+			self.set(key, value)
