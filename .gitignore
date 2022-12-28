@@ -163,5 +163,5 @@ cython_debug/
 test/store/enmap.db
 
 # PyPi directory
-src/pycollection.egg-info
+src/pycollection.egg-info/*
 dist/*

@@ -1,10 +1,10 @@
 [tool.poetry]
 name = "pycollection"
-version = "1.0.1"
+version = "1.0.2"
 description = "pycollection is a powerful utility data structure."
 readme = "README.md"
-authors = [{ name = "Riichi Rusdiana/BillyAddlers", email = "finnsonalca123@gmail.com"}]
-license = { file = "LICENSE" }
+authors = ["Riichi Rusdiana <finnsonalca123@gmail.com>"]
+license = "LICENSE"
 keywords = ["pycollection", "data structure", "collection", "python", "map", "hashmap", "enmap"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
@@ -17,7 +17,6 @@ classifiers = [
     "Programming Language :: Python :: 3.10",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
-
 [project.urls]
 homepage = "https://github.com/BillyAddlers/pycollection"
 repository = "https://github.com/BillyAddlers/pycollection"
