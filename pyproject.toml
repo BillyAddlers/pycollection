@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pycollection"
-version = "1.0.0"
+version = "1.0.1"
 description = "pycollection is a powerful utility data structure."
 readme = "README.md"
 authors = [{ name = "Riichi Rusdiana/BillyAddlers", email = "finnsonalca123@gmail.com"}]
