@@ -1,5 +1,0 @@
-
-[dev]
-bumbver
-pip-tools
-pytest
